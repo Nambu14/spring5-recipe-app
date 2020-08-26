@@ -7,7 +7,7 @@ import lombok.Setter;
 import java.math.BigDecimal;
 
 /**
- * Created by LH on 202008.
+ * Created by jt on 6/21/17.
  */
 @Getter
 @Setter
